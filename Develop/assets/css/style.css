@@ -100,41 +100,23 @@ a {
 
 
 
-.benefit-lead {
-
-    color: #ffffff;
-    margin: 3px;
-    padding: 5px;
-
-
-
-}
-
-#benefit-lead-p1 {
-    border: 1px;
-    margin-left: 10px;
-    text-align: justify;
-
-
-
-}
-
-
-
+.benefit-lead,
 .benefit-brand {
     color: #ffffff;
     margin: 3px;
     padding: 5px;
 
-
 }
 
-#benefit-brand-p1 {
+
+
+#benefit-lead-p1,
+#benefit-brand-p1,
+#benefit-cost-p1 {
     border: 1px;
     margin-left: 10px;
     text-align: justify;
 }
-
 
 
 .benefit-cost {
@@ -145,59 +127,35 @@ a {
 }
 
 
-#benefit-cost-p1 {
-
-    border-top: 1px;
-    margin-left: 10px;
-    text-align: justify;
-
-}
-
-
-
 .benefit-lead h3 {
     margin-bottom: 15px;
     text-align: center;
 
 }
 
-.benefit-brand h3 {
-    margin-top: 25px;
-    margin-bottom: 10px;
-    text-align: center;
-}
-
+.benefit-brand h3,
 .benefit-cost h3 {
     margin-top: 25px;
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img {
-    display: block;
-    margin: 3px auto;
-    max-width: 150px;
 
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 3px auto;
-    max-width: 150px;
-}
-
+.benefit-lead img,
+.benefit-brand img,
 .benefit-cost img {
     display: block;
     margin: 3px auto;
     max-width: 150px;
+
 }
+
 
 .search-engine-optimization {
 
     margin: 0px 0px 35px 20px;
     padding: 40px 40px 0px 20px;
     height: 300px;
-    width: 1175px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
@@ -216,17 +174,7 @@ a {
 }
 
 
-
-.online-reputation-management {
-    margin: 0px 0px 35px 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-    width: 1175px;
-}
-
+.online-reputation-management,
 .social-media-marketing {
     margin: 0px 0px 35px 20px;
     padding: 50px;
@@ -234,30 +182,15 @@ a {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-    color: #ffffff;
-    width: 1175px;
-
-
 }
 
-.search-engine-optimization img {
-    height: 200px;
-    width: 310px;
-    margin: 10px 40px 10px 10px;
 
-}
-
-.online-reputation-management img {
-    height: 200px;
-    width: 310px;
-    margin: 10px 10px 10px 10px;
-
-}
-
+.search-engine-optimization img,
+.online-reputation-management img,
 .social-media-marketing img {
     height: 200px;
     width: 310px;
-    margin: 10px 10px 10px 10px;
+    margin: 10px 40px 10px 10px;
 
 }
 

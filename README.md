@@ -12,10 +12,13 @@ This pages shows the completed challenge for week two. I refactored the code to 
 
 
 ## Sreenshot of the web page ##
+![This is an image](./assets/images/headerscreenshot.jpg)
+
+
 
 
 
 
 ### Links ###
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 

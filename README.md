@@ -6,6 +6,8 @@ This pages shows the completed challenge for week two. I refactored the code to 
 - Created ids for the benefits'sections paragraphs
 - Deleted unnecesary styles
 - Use semantics like header, nav, main, articles, aside and a footer.
+- Refactored styles
+- Refactored html semantics
 
 
 

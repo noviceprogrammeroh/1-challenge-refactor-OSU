@@ -13,9 +13,12 @@
 
 
 
-## Sreenshot of the web page ##
+## Sreenshots of the web page ##
 
 ![This is an image](./assets/images/headerscreenshot.jpg)
+![This is an image](./assets/images/2ndscreenshotsearch-engine.PNG)
+![This is an image](./assets/images/thirdscreenshot-social-media-marketing.PNG)
+
 
 
 
